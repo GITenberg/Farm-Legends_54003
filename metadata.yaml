@@ -1,0 +1,28 @@
+_repo: Farm-Legends_54003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carleton, Will
+    aliases:
+    - Carleton, W. M. (William McKendree)
+    - Carleton, William McKendree
+    birthdate: 1845
+    deathdate: 1912
+    gutenberg_agent_id: '3078'
+    url: http://www.gutenberg.org/2009/agents/3078
+description: ''
+gutenberg_issued: '2017-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Poetry'
+- !lcsh 'American poetry -- 19th century'
+- GITenberg
+title: Farm Legends
+url: http://www.gutenberg.org/ebooks/54003
